@@ -1,2 +1,2 @@
-i#!/bin/bash
-whoami
+#!/bin/bash
+echo -e '"(Ôo)'/'
